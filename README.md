@@ -14,5 +14,5 @@ I am a computer science student at Saddleback College.<br>I know C++ and Java.
 ---
 [![](https://visitcount.itsvg.in/api?id=alexis-pham&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/alexis-pham/alexis-pham/blob/output/github-snake-light.svg)
+![snake gif](https://github.com/alexis-pham/alexis-pham/blob/output/github-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
