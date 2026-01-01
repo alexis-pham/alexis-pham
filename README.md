@@ -1,7 +1,7 @@
 # Hi! I'm Alexis
 
 # 💫 About Me:
-I am a computer science student at Saddleback College.<br>I know C++ and Java.
+I am a computer science student at UCLA.<br>
 
 
 # 💻 Tech Stack:
